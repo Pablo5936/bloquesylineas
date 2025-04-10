@@ -30,10 +30,10 @@ h1 {
 
 .uno {
   background-color: whitesmoke;
-  width: 50em;
-  height: 8em;
+  width: 50%;
+  height: 8%;
   padding: 1em;
-  margin-left: 4em;
+  margin-left: 4%;
   border: #8aac79 solid 5px;
   border-top-left-radius: 10px;
   border-bottom-left-radius: 10px;
@@ -52,10 +52,10 @@ span {
 
 .dos {
   background-color: whitesmoke;
-  width: 50em;
-  height: 6em;
+  width: 50%;
+  height: 6%;
   padding: 1em;
-  margin-left: 20em;
+  margin-left: 40%;
   border: #8aac79 solid 5px;
   border-top-right-radius: 10px;
   border-bottom-right-radius: 10px;
@@ -73,10 +73,10 @@ span {
 .tres {
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   background-color: whitesmoke;
-  width: 50em;
-  height: 8em;
+  width: 50%;
+  height: 8%;
   padding: 1em;
-  margin-left: 4em;
+  margin-left: 4%;
   border: #8aac79 5px inset;
   border-radius: 12px;
   line-height: 1.4;
@@ -91,10 +91,10 @@ span {
 
 .cuatro {
   background-color: whitesmoke;
-  width: 50em;
-  height: 8em;
+  width: 50%;
+  height: 8%;
   padding: 1em;
-  margin-left: 4em;
+  margin-left: 4%;
   border: #8aac79 solid 5px;
   border-top-left-radius: 10px;
   border-bottom-left-radius: 10px;
@@ -109,10 +109,10 @@ span {
 
 .cinco {
   background-color: whitesmoke;
-  width: 50em;
-  height: 6em;
+  width: 50%;
+  height: 6%;
   padding: 1em;
-  margin-left: 20em;
+  margin-left: 40%;
   border: #8aac79 solid 5px;
   border-top-right-radius: 10px;
   border-bottom-right-radius: 10px;
@@ -130,10 +130,10 @@ span {
 .seis {
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   background-color: whitesmoke;
-  width: 50em;
-  height: 8em;
+  width: 50%;
+  height: 8%;
   padding: 1em;
-  margin-left: 4em;
+  margin-left: 4%;
   border: #8aac79 5px inset;
   border-radius: 12px;
   line-height: 1.4;
